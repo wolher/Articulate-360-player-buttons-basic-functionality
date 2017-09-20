@@ -1,1 +1,1 @@
-# user.js-skin
+This is the user.js file
