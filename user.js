@@ -1,6 +1,6 @@
-// User defined code goes here. This code is valid for Articulate 360
-// this script will allow you to add a company logo
-// completion percentage, email and subtitles
+// This code is valid for Articulate 360
+// this script will allow you to add completion percentage, 
+// email, subtitles and enlarge button
 var toggle = true,
 	arrFromList,
 	checkStatusInterval,
